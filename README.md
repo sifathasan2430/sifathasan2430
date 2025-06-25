@@ -17,11 +17,16 @@ I enjoy building real-world applications with clean code, reusable components, a
 ## 🔭 Currently Working On
 
 <div>
-  - 🎨 Developing a **tourism website** using React, Tailwind CSS, and Firebase Auth  
+ <div  >
+    - 🎨 Developing a **tourism website** using React, Tailwind CSS, and Firebase Auth  
 - 🔐 Building secure login systems using **JWT** and **HttpOnly Cookies**  
 - 🧩 Designing reusable UI components for fast development  
 - 📦 Deploying full-stack apps using **Vercel** and **MongoDB Atlas**
-    <img width='300px' src="https://i.ibb.co/C3fx7n8j/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572" border="0">
+   </div>
+   
+<div>
+      <img  width='300px' src="https://i.ibb.co/C3fx7n8j/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572" border="0">
+</div>
 </div>
 
 ---
