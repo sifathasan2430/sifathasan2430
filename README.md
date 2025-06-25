@@ -31,18 +31,11 @@ A full-stack tourism package booking platform built with the MERN stack.
 
 - 🔑 Features: User authentication (JWT & Firebase), tour creation form, booking, and dashboard
 - 🧰 Tech: React, Express, MongoDB, Firebase, Tailwind, Vercel
-- 🔗 [Live Demo](https://your-tour-app.vercel.app) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/sifathasan/tour-booking)
+- 🔗 [Live Demo](https://tourmanagementsystem-3651f.web.app) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430)
 
----
 
-### 📋 Task Manager App
-A simple task management tool with authentication and protected APIs.
 
-- 🔑 Features: Login system, add/edit/delete tasks, responsive UI
-- 🧰 Tech: React, Express, MongoDB, JWT, Tailwind
-- 🔗 [Live Demo](https://your-task-app.vercel.app) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/sifathasan/task-manager)
 
----
 
 ## 🛠️ My Tech Stack
 
@@ -65,9 +58,9 @@ A simple task management tool with authentication and protected APIs.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:sifatdev00@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sifatshasan00@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sifathasan"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/sifathasan2430"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
