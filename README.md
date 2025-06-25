@@ -32,7 +32,7 @@ I enjoy building real-world applications with clean code, reusable components, a
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left side: Project content -->
+ <img align="right" alt="coding" width="400" src="https://i.ibb.co/C3fx7n8j/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png">
   <div style="flex: 1; min-width: 280px;">
     <h3>🧭 Tour Booking Platform</h3>
     <p>A full-stack tourism package booking platform built with the MERN stack.</p>
@@ -47,7 +47,7 @@ I enjoy building real-world applications with clean code, reusable components, a
   </div>
 
   <!-- Right side: Image -->
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/C3fx7n8j/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png">
+
 
 </div>
 
