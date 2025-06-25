@@ -1,6 +1,6 @@
 
 <!-- Banner Image -->
-<img src="https://i.ibb.co/YZ9RYXP/sifat-github-banner.png" alt="Sifat Hasan Banner" style="width:100%; border-radius: 8px;" />
+<img src="https://i.ibb.co/BHrX5TMr/freepik-github-banner-with-the-title-hey-im-sifat-hasan-di-6593.png" alt="Sifat Hasan Banner" style="width:100%; border-radius: 8px;" />
 
 <h1 align="center">👋 Hello, I'm Sifat Hasan</h1>
 <h3 align="center">Frontend-Focused MERN Stack Developer | Passionate about React, Clean UI, and Full-Stack Development</h3>
@@ -58,7 +58,7 @@ A full-stack tourism package booking platform built with the MERN stack.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:sifatshasan00@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sifatshasan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sifathasan2430"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
