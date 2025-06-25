@@ -13,6 +13,7 @@ I enjoy building real-world applications with clean code, reusable components, a
 
 ---
 
+
 ## 🔭 Currently Working On
 
 - 🎨 Developing a **tourism website** using React, Tailwind CSS, and Firebase Auth  
@@ -24,17 +25,28 @@ I enjoy building real-world applications with clean code, reusable components, a
 
 ## 🚀 Featured Projects
 
-### 🧭 Tour Booking Platform
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
+  <!-- Left side: Project content -->
+  <div style="flex: 1; min-width: 280px;">
+    <h3>🧭 Tour Booking Platform</h3>
+    <p>A full-stack tourism package booking platform built with the MERN stack.</p>
+    <ul>
+      <li>🔐 <strong>Features:</strong> JWT & Firebase auth, tour creation, booking, dashboard</li>
+      <li>🧰 <strong>Tech:</strong> React, Express, MongoDB, Firebase, Tailwind, Vercel</li>
+    </ul>
+    <p>
+      🔗 <a href="https://tourmanagementsystem-3651f.web.app">Live Demo</a> &nbsp;|&nbsp;
+      💻 <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430">GitHub Repo</a>
+    </p>
+  </div>
 
-A full-stack tourism package booking platform built with the MERN stack.
+  <!-- Right side: Image -->
+  <div style="flex: 1; min-width: 280px;">
+    <img src="https://i.ibb.co/C3fx7n8/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="Tour App Screenshot" width="100%" style="border-radius: 10px;" />
+  </div>
 
-🔑 **Features:** User authentication (JWT & Firebase), tour creation form, booking, and dashboard  
-🧰 **Tech:** React, Express, MongoDB, Firebase, Tailwind, Vercel  
-🔗 [Live Demo](https://tourmanagementsystem-3651f.web.app) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430)
-
-<img src="https://i.ibb.co/C3fx7n8/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="Tour App Preview" width="600" style="border-radius: 8px; margin-top: 10px;" />
-
+</div>
 
 
 ## 🛠️ My Tech Stack
