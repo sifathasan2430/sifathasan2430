@@ -1,6 +1,4 @@
 
-<!-- Banner Image -->
-<img src="https://i.ibb.co/BHrX5TMr/freepik-github-banner-with-the-title-hey-im-sifat-hasan-di-6593.png" alt="Sifat Hasan Banner" style="width:100%; height:50% border-radius: 8px;" />
 
 <h1 align="center">👋 Hello, I'm Sifat Hasan</h1>
 <h3 align="center">Frontend-Focused MERN Stack Developer | Passionate about React, Clean UI, and Full-Stack Development</h3>
@@ -27,13 +25,24 @@ I enjoy building real-world applications with clean code, reusable components, a
 ## 🚀 Featured Projects
 
 ### 🧭 Tour Booking Platform
-A full-stack tourism package booking platform built with the MERN stack.
-
-- 🔑 Features: User authentication (JWT & Firebase), tour creation form, booking, and dashboard
-- 🧰 Tech: React, Express, MongoDB, Firebase, Tailwind, Vercel
-- 🔗 [Live Demo](https://tourmanagementsystem-3651f.web.app) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430)
 
 
+<table>
+  <tr>
+    <td>
+      <p>
+        A full-stack tourism package booking platform built with the MERN stack.
+        <br /><br />
+        🔑 <strong>Features:</strong> User authentication (JWT & Firebase), tour creation form, booking, and dashboard.<br />
+        🧰 <strong>Tech:</strong> React, Express, MongoDB, Firebase, Tailwind, Vercel.<br /><br />
+        🔗 <a href="https://tourmanagementsystem-3651f.web.app">Live Demo</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430">GitHub Repo</a>
+      </p>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/C3fx7n8/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="Tour Booking Screenshot" width="300" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 
 
