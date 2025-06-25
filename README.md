@@ -27,22 +27,13 @@ I enjoy building real-world applications with clean code, reusable components, a
 ### 🧭 Tour Booking Platform
 
 
-<table>
-  <tr>
-    <td>
-      <p>
-        A full-stack tourism package booking platform built with the MERN stack.
-        <br /><br />
-        🔑 <strong>Features:</strong> User authentication (JWT & Firebase), tour creation form, booking, and dashboard.<br />
-        🧰 <strong>Tech:</strong> React, Express, MongoDB, Firebase, Tailwind, Vercel.<br /><br />
-        🔗 <a href="https://tourmanagementsystem-3651f.web.app">Live Demo</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430">GitHub Repo</a>
-      </p>
-    </td>
-    <td>
-      <img src="https://i.ibb.co/C3fx7n8/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="Tour Booking Screenshot" width="300" style="border-radius: 8px;" />
-    </td>
-  </tr>
-</table>
+A full-stack tourism package booking platform built with the MERN stack.
+
+🔑 **Features:** User authentication (JWT & Firebase), tour creation form, booking, and dashboard  
+🧰 **Tech:** React, Express, MongoDB, Firebase, Tailwind, Vercel  
+🔗 [Live Demo](https://tourmanagementsystem-3651f.web.app) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430)
+
+<img src="https://i.ibb.co/C3fx7n8/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png" alt="Tour App Preview" width="600" style="border-radius: 8px; margin-top: 10px;" />
 
 
 
