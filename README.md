@@ -47,9 +47,7 @@ I enjoy building real-world applications with clean code, reusable components, a
   </div>
 
   <!-- Right side: Image -->
-  <div style="flex: 1; min-width: 280px;">
-
-  </div>
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/C3fx7n8j/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f70706572.png">
 
 </div>
 
