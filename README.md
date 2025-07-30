@@ -34,15 +34,16 @@ I enjoy building real-world applications with clean code, reusable components, a
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 280px;">
-    <h3>🧭 Tour Booking Platform</h3>
-    <p>A full-stack tourism package booking platform built with the MERN stack.</p>
+    <h3>🧭 Roomrent website</h3>
+    <p>A full-stack Roomrent platform built with the MERN stack.</p>
     <ul>
+               <li>Role baseed website</li>
       <li>🔐 <strong>Features:</strong> JWT & Firebase auth, tour creation, booking, dashboard</li>
       <li>🧰 <strong>Tech:</strong> React, Express, MongoDB, Firebase, Tailwind, Vercel</li>
     </ul>
     <p>
-      🔗 <a href="https://tourmanagementsystem-3651f.web.app">Live Demo</a> &nbsp;|&nbsp;
-      💻 <a href="https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-sifathasan2430">GitHub Repo</a>
+      🔗 <a href="https://roomatefinder-5e9a6.web.app/">Live Demo</a> &nbsp;|&nbsp;
+      💻 <a href="https://github.com/sifathasan2430/roommatefinder-client-site">GitHub Repo</a>
     </p>
   </div>
 
