@@ -1,14 +1,14 @@
 
 
 <h1 align="center">👋 Hello, I'm Sifat Hasan</h1>
-<h3 align="center">Frontend-Focused MERN Stack Developer | Passionate about React, Clean UI, and Full-Stack Development</h3>
+<h3 align="center">React Developer | Custom Components & Performance Optimization</h3>
 
 ---
 
 ## 🧑‍💼 About Me
 
 I'm a frontend-focused full-stack developer with a strong foundation in the MERN stack.  
-I specialize in building responsive, user-friendly web applications using **React** and **Tailwind CSS**.  
+Building modern React applications with optimized data fetching strategies and custom component architectures. Specialized in implementing React Query to manage server state efficiently, eliminating race conditions without relying on debouncing techniques. Passionate about clean, reusable code patterns. 
 I enjoy building real-world applications with clean code, reusable components, and backend logic using **Node.js**, **Express**, and **MongoDB**.
 
 ---
