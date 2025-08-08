@@ -14,10 +14,10 @@ Building modern React applications with optimized data fetching strategies and c
 ---
 
 ## 🔭 Current Activities
-- 🎨 Developing a **tourism website** using React, Tailwind CSS, and Firebase Auth  
-- 🔐 Building secure login systems using **JWT** and **HttpOnly Cookies**  
-- 🧩 Designing reusable UI components for fast development  
-- 📦 Deploying full-stack apps using **Vercel** and **MongoDB Atlas**
+- 🔍 **Exploring Next.js** for enhanced server-side rendering and static site generation
+- 🌍 **Developing a tourism website** with React, Tailwind CSS, and Firebase Auth
+- 🎨 **Creating custom components** with forwardRef for reusable UI architecture
+- ⚡ **Optimizing website performance** for better UI/UX and faster load times
 
 ---
 
