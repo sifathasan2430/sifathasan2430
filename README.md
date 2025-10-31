@@ -22,21 +22,44 @@ Building modern React applications with optimized data fetching strategies and c
 ---
 
 ## 🚀 Featured Projects
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 280px;">
-    <h3>🧭 Roomrent website</h3>
-    <p>A full-stack Roomrent platform built with the MERN stack.</p>
-    <ul>
-      <li>Role based website</li>
-      <li>🔐 <strong>Features:</strong> JWT & Firebase auth, tour creation, booking, dashboard</li>
-      <li>🧰 <strong>Tech:</strong> React, Express, MongoDB, Firebase, Tailwind, Vercel</li>
-    </ul>
-    <p>
-      🔗 <a href="https://roomatefinder-5e9a6.web.app/">Live Demo</a> &nbsp;|&nbsp;
-      💻 <a href="https://github.com/sifathasan2430/roommatefinder-client-site">GitHub Repo</a>
-    </p>
-  </div>
-</div>
+
+**EasyStay** is a modern **Next.js 15** short-term rental marketplace where guests can browse, filter, and instantly book stays while hosts can list properties, set dynamic pricing, and chat with guests in real time.
+
+Live Demo: [https://easy-stay.vercel.app](easy-stay-liart.vercel.app) 
+Live Demo: [https://github.com/sifathasan2430/Easy-Stay]
+Git Link:
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+|--------|-------------|
+| **Responsive UI** | Built with **Next.js App Router**, **Tailwind CSS**, **shadcn/ui**, dark mode, sticky navbar & mobile slide-in menu |
+| **Live Location Tracer** | GeoJSON points stored in MongoDB, interactive Mapbox/Leaflet map with marker clustering |
+| **Dynamic Pricing** | Seasonal, weekday/weekend, cleaning fees, per-guest pricing – calculated on client **and** server |
+| **Booking Flow** | Browse → Details → Dates & Guests → Instant Quote → Confirm |
+| **Real-time Chat** | Powered by **GetStream** – read receipts, attachments, system messages |
+| **Reviews & Ratings** | 1-5 star system with aggregated scores and distribution charts |
+| **Authentication** | **NextAuth.js** – Google, GitHub, Facebook, Email/Password |
+| **Admin Dashboard** | Manage stays, bookings, users, and disputes |
+| **Form Validation** | **Zod** + **react-hook-form** |
+| **Backend** | **MongoDB + Mongoose**, Next.js API routes / Server Actions |
+
+---
+
+## 🚀 Tech Stack
+
+- **Framework**: Next.js 15 (App Router)
+- **Styling**: Tailwind CSS, shadcn/ui, Framer Motion
+- **Icons**: Lucide React
+- **Forms**: react-hook-form + Zod
+- **Auth**: NextAuth.js
+- **Realtime Chat**: GetStream Chat
+- **Maps**: Mapbox GL JS (or Leaflet)
+- **Database**: MongoDB + Mongoose
+- **Deployment**: Vercel (frontend), MongoDB Atlas (DB)
+
 
 ---
 
