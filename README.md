@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/5gs4xLBn/web-Developer.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
-</div>
+
 
 <h1 align="center">👋 Hello, I'm Sifat Hasan</h1>
 <h3 align="center">React Developer | Custom Components & Performance Optimization</h3>
@@ -26,8 +24,7 @@ Building modern React applications with optimized data fetching strategies and c
 **EasyStay** is a modern **Next.js 15** short-term rental marketplace where guests can browse, filter, and instantly book stays while hosts can list properties, set dynamic pricing, and chat with guests in real time.
 
 Live Demo: [https://easy-stay.vercel.app](easy-stay-liart.vercel.app) 
-Live Demo: [https://github.com/sifathasan2430/Easy-Stay]
-Git Link:
+Git Link: [https://github.com/sifathasan2430/Easy-Stay]
 
 ---
 
