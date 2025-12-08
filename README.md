@@ -34,12 +34,7 @@ Building modern React applications with optimized data fetching strategies and c
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifathasan2430&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sifathasan2430&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifathasan2430&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
@@ -52,5 +47,12 @@ Building modern React applications with optimized data fetching strategies and c
 </p>
 
 ---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sifathasan2430&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sifathasan2430&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifathasan2430&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 <p align="center">🌱 Always building. Always improving. Let’s connect and create something awesome!</p>
